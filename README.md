@@ -105,7 +105,7 @@ If validation fails, the API returns:
 
 ## 🌍 Live Application
 ```
-https://<your-render-link>.onrender.com
+https://item-api-jjql.onrender.com
 ```
 
 ---
